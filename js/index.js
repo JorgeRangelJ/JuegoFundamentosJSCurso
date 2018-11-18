@@ -82,6 +82,7 @@ class Juego {
   }
 
   elegirColor(ev) {
+    console.log(ev)
     console.log(this)
   }
 
